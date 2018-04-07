@@ -8,9 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		1BC59872ED8A25A5ECF47A29 /* Pods_ScreenRecorder_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 184669CD3E343C0BA7B75DC1 /* Pods_ScreenRecorder_Example.framework */; };
+		439F0A502079011D00FC0CD9 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 439F0A4F2079011D00FC0CD9 /* data.json */; };
+		439F0A572079018400FC0CD9 /* ArticleDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A512079018400FC0CD9 /* ArticleDetailsViewController.swift */; };
+		439F0A582079018400FC0CD9 /* ArticleListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A522079018400FC0CD9 /* ArticleListViewController.swift */; };
+		439F0A592079018400FC0CD9 /* ArticleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A532079018400FC0CD9 /* ArticleCell.swift */; };
+		439F0A5A2079018400FC0CD9 /* EnumCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A542079018400FC0CD9 /* EnumCollection.swift */; };
+		439F0A5B2079018400FC0CD9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A552079018400FC0CD9 /* SettingsViewController.swift */; };
+		439F0A5C2079018400FC0CD9 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439F0A562079018400FC0CD9 /* Settings.swift */; };
 		453A203125ED4A236C0DFD7E /* Pods_ScreenRecorder_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C04292EF5ACF5CAB525F871D /* Pods_ScreenRecorder_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
-		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
@@ -29,21 +35,27 @@
 
 /* Begin PBXFileReference section */
 		184669CD3E343C0BA7B75DC1 /* Pods_ScreenRecorder_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScreenRecorder_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3202C6ACF861A2FBF9F27BB4 /* ScreenRecorder.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ScreenRecorder.podspec; path = ../ScreenRecorder.podspec; sourceTree = "<group>"; };
-		3B7976D400C4B80317787418 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3202C6ACF861A2FBF9F27BB4 /* ScreenRecorder.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ScreenRecorder.podspec; path = ../ScreenRecorder.podspec; sourceTree = "<group>"; };
+		3B7976D400C4B80317787418 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		439F0A4F2079011D00FC0CD9 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		439F0A512079018400FC0CD9 /* ArticleDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleDetailsViewController.swift; sourceTree = "<group>"; };
+		439F0A522079018400FC0CD9 /* ArticleListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleListViewController.swift; sourceTree = "<group>"; };
+		439F0A532079018400FC0CD9 /* ArticleCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleCell.swift; sourceTree = "<group>"; };
+		439F0A542079018400FC0CD9 /* EnumCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnumCollection.swift; sourceTree = "<group>"; };
+		439F0A552079018400FC0CD9 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		439F0A562079018400FC0CD9 /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		55D0BD83276161D0C438C973 /* Pods-ScreenRecorder_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenRecorder_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenRecorder_Tests/Pods-ScreenRecorder_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		59EA5E7EC867EA3E98FD8CE9 /* Pods-ScreenRecorder_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenRecorder_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenRecorder_Example/Pods-ScreenRecorder_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ScreenRecorder_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenRecorder_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		607FACD71AFB9204008FA782 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		607FACDA1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		607FACDC1AFB9204008FA782 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* ScreenRecorder_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScreenRecorder_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		AEB817D146478B3916ACB95F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		AEB817D146478B3916ACB95F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C04292EF5ACF5CAB525F871D /* Pods_ScreenRecorder_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScreenRecorder_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D74CB402AFC0C8D822DE9052 /* Pods-ScreenRecorder_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenRecorder_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenRecorder_Example/Pods-ScreenRecorder_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F7C3D716680595EE7958BE93 /* Pods-ScreenRecorder_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenRecorder_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenRecorder_Tests/Pods-ScreenRecorder_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -93,8 +105,13 @@
 		607FACD21AFB9204008FA782 /* Example for ScreenRecorder */ = {
 			isa = PBXGroup;
 			children = (
+				439F0A532079018400FC0CD9 /* ArticleCell.swift */,
+				439F0A512079018400FC0CD9 /* ArticleDetailsViewController.swift */,
+				439F0A522079018400FC0CD9 /* ArticleListViewController.swift */,
+				439F0A542079018400FC0CD9 /* EnumCollection.swift */,
+				439F0A562079018400FC0CD9 /* Settings.swift */,
+				439F0A552079018400FC0CD9 /* SettingsViewController.swift */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
-				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
@@ -107,6 +124,7 @@
 		607FACD31AFB9204008FA782 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				439F0A4F2079011D00FC0CD9 /* data.json */,
 				607FACD41AFB9204008FA782 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -251,6 +269,7 @@
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				439F0A502079011D00FC0CD9 /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,10 +372,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-ScreenRecorder_Example/Pods-ScreenRecorder_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ScreenRecorder/ScreenRecorder.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ScreenRecorder.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -370,8 +391,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
+				439F0A592079018400FC0CD9 /* ArticleCell.swift in Sources */,
+				439F0A582079018400FC0CD9 /* ArticleListViewController.swift in Sources */,
+				439F0A572079018400FC0CD9 /* ArticleDetailsViewController.swift in Sources */,
+				439F0A5A2079018400FC0CD9 /* EnumCollection.swift in Sources */,
+				439F0A5C2079018400FC0CD9 /* Settings.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
+				439F0A5B2079018400FC0CD9 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

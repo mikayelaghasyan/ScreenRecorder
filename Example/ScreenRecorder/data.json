@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [{
+                 "source": {
+                 "id": null,
+                 "name": "Seekingalpha.com"
+                 },
+                 "author": "Gary Alexander",
+                 "title": "Micron: Ignore The Bears",
+                 "description": "Micron has been unfairly pummeled by a bearish initiation from UBS and DRAM market concerns. Micron has lost nearly 10% this week alone on overly negative senti",
+                 "url": "https://seekingalpha.com/article/4161371-micron-ignore-bears",
+                 "urlToImage": "https://static1.seekingalpha.com/uploads/2018/4/6/saupload_90a524129939656403e213a582e9fd9b.png",
+                 "publishedAt": "2018-04-06T10:04:44Z"
+                 },
+                 {
+                 "source": {
+                 "id": "the-wall-street-journal",
+                 "name": "The Wall Street Journal"
+                 },
+                 "author": "Peter Nicholas",
+                 "title": "Trump's Criticism of Amazon: It's Personal",
+                 "description": "President’s attacks on e-commerce company stem from its CEO’s ownership of the Washington Post, which the American leader says writes unfair stories about him, say people close to the White House.",
+                 "url": "https://www.wsj.com/articles/trumps-criticism-of-amazon-its-personal-1523007001",
+                 "urlToImage": "https://si.wsj.net/public/resources/images/BN-YD369_TRUMPA_SOC_20180405194334.jpg",
+                 "publishedAt": "2018-04-06T09:30:56Z"
+                 },
+                 {
+                 "source": {
+                 "id": "reuters",
+                 "name": "Reuters"
+                 },
+                 "author": "Reuters Editorial",
+                 "title": "UPDATE 1-Trade war fears already hurting the economy, ECB's Coeure says",
+                 "description": "Fears of a trade warfuelled by proposed U.S. tariffs are already raising borrowingcosts and pushing down share prices, a European Central Bankboard member said on Friday.",
+                 "url": "https://www.reuters.com/article/ecb-policy-trade/update-1-trade-war-fears-already-hurting-the-economy-ecbs-coeure-says-idUSL5N1RJ19N",
+                 "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+                 "publishedAt": "2018-04-06T09:08:29Z"
+                 },
+                 {
+                 "source": {
+                 "id": "the-new-york-times",
+                 "name": "The New York Times"
+                 },
+                 "author": "Alexandra Stevenson",
+                 "title": "Markets Cautiously Lower as US-China Trade Threat Looms",
+                 "description": "The modest drop signals caution among investors as they await details from Trump’s latest threat to impose new tariffs on Chinese-made goods.",
+                 "url": "https://www.nytimes.com/2018/04/06/business/us-china-trade-markets.html",
+                 "urlToImage": "https://static01.nyt.com/images/2018/04/07/world/07markets-1/07markets-1-facebookJumbo.jpg",
+                 "publishedAt": "2018-04-06T09:08:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnn",
+                 "name": "CNN"
+                 },
+                 "author": "Ivana Kottasová",
+                 "title": "Jobs report; Trump trade threats; Markets suffer",
+                 "description": "Here's what you need to know about the markets before you start your business day.",
+                 "url": "http://money.cnn.com/2018/04/06/investing/premarket-stocks-trading/index.html",
+                 "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/180118123250-hiring-780x439.jpg",
+                 "publishedAt": "2018-04-06T08:46:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnbc",
+                 "name": "CNBC"
+                 },
+                 "author": "Reuters",
+                 "title": "Samsung Electronics tips record first-quarter profit as chip boom winds down",
+                 "description": "Nonetheless, Samsung shares fell after the announcement as analysts forecast similar or lower profit in the second quarter.",
+                 "url": "https://www.cnbc.com/2018/04/06/samsung-electronics-tips-record-q1-profit-as-chip-boom-winds-down.html",
+                 "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/30/104977749-GettyImages-868371820.1910x1000.jpg",
+                 "publishedAt": "2018-04-06T07:20:51Z"
+                 },
+                 {
+                 "source": {
+                 "id": "business-insider",
+                 "name": "Business Insider"
+                 },
+                 "author": "Reuters",
+                 "title": "Grab's Uber deal still has some obstacles to navigate",
+                 "description": "",
+                 "url": "http://www.businessinsider.com/r-grabs-uber-deal-still-has-some-obstacles-to-navigate-2018-4",
+                 "urlToImage": null,
+                 "publishedAt": "2018-04-06T07:10:59Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnn",
+                 "name": "CNN"
+                 },
+                 "author": "Sherisse Pham",
+                 "title": "China's HNA is looking to offload its $6.5 billion stake in Hilton",
+                 "description": "HNA Group, which borrowed heavily in recent years to buy up assets around the world, is now seeking to sell its 26% stake in Hilton Worldwide.",
+                 "url": "http://money.cnn.com/2018/04/06/investing/hna-group-china-hilton-hotels/index.html",
+                 "urlToImage": "http://i2.cdn.turner.com/money/dam/assets/170426075454-hilton-new-york-city-780x439.jpg",
+                 "publishedAt": "2018-04-06T07:09:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "fortune",
+                 "name": "Fortune"
+                 },
+                 "author": "Casey Quackenbush",
+                 "title": "ICOs Are 'Absolutely Not' All Fraudulent Says the Chairman of the SEC",
+                 "description": "",
+                 "url": "http://fortune.com/2018/04/06/cryptocurrency-regulation-sec-ico/",
+                 "urlToImage": "https://fortunedotcom.files.wordpress.com/2018/04/gettyimages-914923334.jpg",
+                 "publishedAt": "2018-04-06T04:04:43Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Latimes.com"
+                 },
+                 "author": "Samantha Masunaga",
+                 "title": "Virgin Galactic conducts first rocket-powered test since deadly 2014 accident",
+                 "description": "Virgin Galactic's SpaceShipTwo fired up its rocket-powered motor for the first time Thursday during a flight test in Mojave. The spaceplane was airborne for more than an hour before landing.",
+                 "url": "http://www.latimes.com/business/la-fi-virgin-galactic-20180404-story.html",
+                 "urlToImage": "http://www.latimes.com/resizer/v2_xdifk0Eo5MTHPZnF04jXnUuk=/1200x0/www.trbimg.com/img-5ac6a6d7/turbine/la-fi-virgin-galactic-20180404",
+                 "publishedAt": "2018-04-05T22:41:15Z"
+                 },
+                 {
+                 "source": {
+                 "id": "the-wall-street-journal",
+                 "name": "The Wall Street Journal"
+                 },
+                 "author": "Maria Armental",
+                 "title": "Target to Pay $3.7 Million in Settlement Over Job-Screening Policies",
+                 "description": "Target has agreed to pay more than $3.7 million and overhaul job-screening guidelines for hourly workers to resolve a civil-rights class-action complaint that alleged the company’s policies regarding criminal-background checks were too broad and discriminated…",
+                 "url": "https://www.wsj.com/articles/target-to-pay-3-7-million-in-settlement-over-job-screening-policies-1522966099",
+                 "urlToImage": "https://images.wsj.net/im-6140/social",
+                 "publishedAt": "2018-04-05T22:09:32Z"
+                 },
+                 {
+                 "source": {
+                 "id": "the-wall-street-journal",
+                 "name": "The Wall Street Journal"
+                 },
+                 "author": "Doug Cameron",
+                 "title": "Delta Says Hack on Vendor Exposed Customer Credit-Card Data",
+                 "description": "Delta Air Lines Inc. on Thursday said hundreds of thousands of customers could have had their credit-card information compromised in a cyberattack on a vendor that ran a chat function on the carrier’s website.",
+                 "url": "https://www.wsj.com/articles/delta-says-hack-on-vendor-exposed-customer-credit-card-data-1522965773",
+                 "urlToImage": "https://images.wsj.net/im-6138/social",
+                 "publishedAt": "2018-04-05T22:02:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "cnbc",
+                 "name": "CNBC"
+                 },
+                 "author": "Kate Rooney",
+                 "title": "Bitcoin exchange Coinbase launches early-stage venture fund",
+                 "description": "Popular cryptocurrency exchange Coinbase is launching a vehicle for early-stage investments, the company announced Thursday.",
+                 "url": "https://www.cnbc.com/2018/04/05/bitcoin-exchange-coinbase-launches-early-stage-investment-venture.html",
+                 "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/16/105013883-rsz_gettyimages-917474098.1910x1000.jpg",
+                 "publishedAt": "2018-04-05T21:33:11Z"
+                 },
+                 {
+                 "source": {
+                 "id": "reuters",
+                 "name": "Reuters"
+                 },
+                 "author": "Nate Raymond",
+                 "title": "J&J, Imerys must pay $37 million in case over talc cancer risks: jury",
+                 "description": "Johnson & Johnson (JNJ.N) suffered its first trial loss in a lawsuit claiming its talc-based products including Johnson's Baby Powder contain cancer-causing asbestos, with a New Jersey jury on Thursday ordering J&J and another company to pay $37 million in da…",
+                 "url": "https://in.reuters.com/article/us-johnson-johnson-cancer-lawsuit/jj-imerys-must-pay-37-million-in-case-over-talc-cancer-risks-jury-idINKCN1HC2PL",
+                 "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20180405&t=2&i=1248449979&w=1200&r=LYNXNPEE341KY",
+                 "publishedAt": "2018-04-05T20:43:21Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Patch.com"
+                 },
+                 "author": "Beth Dalbey",
+                 "title": "Last Day To File 2017 Taxes, Get Extensions: 11 Common Questions",
+                 "description": "The filing deadline for 2017 taxes is near. Heres how to get an extension, what to do if you cant pay and answers to 11 common questions.",
+                 "url": "https://patch.com/us/across-america/last-day-file-2017-taxes-get-extensions-11-common-questions",
+                 "urlToImage": "https://cdn20.patchcdn.com/users/790386/20180405/042757/styles/T800x600/public/processed_images/shutterstock_570749311-1522959622-8244.jpg",
+                 "publishedAt": "2018-04-05T20:28:02Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Patch.com"
+                 },
+                 "author": "Karen Wall",
+                 "title": "Dog Dies After Grooming At Toms River PetSmart",
+                 "description": "Chuck Crawfords corgi, Abby, is the third dog whose death is blamed on PetSmart grooming in 4 months; hes urging people to use their vets.",
+                 "url": "https://patch.com/new-jersey/tomsriver/dog-dies-after-grooming-toms-river-petsmart",
+                 "urlToImage": "https://cdn20.patchcdn.com/users/22821257/20180405/060300/styles/T800x600/public/processed_images/abby_and_harley_crawford-1522959127-5459.jpg",
+                 "publishedAt": "2018-04-05T18:17:33Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Marketwatch.com"
+                 },
+                 "author": "Andrea Riquier",
+                 "title": "We read all 46 pages of Jamie Dimon's annual letter to bring you these highlights",
+                 "description": "The CEO of JPMorgan Chase & Co. shares a lengthy annual essay on everything from government policy to corporate bureaucracy.",
+                 "url": "https://www.marketwatch.com/story/we-read-all-46-pages-of-jamie-dimons-annual-letter-to-bring-you-these-highlights-2018-04-05",
+                 "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-FU145_dimon__ZG_20170912155321.jpg",
+                 "publishedAt": "2018-04-05T17:49:04Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Popsugar.com"
+                 },
+                 "author": "Kate Schweitzer",
+                 "title": "The Biggest Secret at Trader Joe's Is So Sweet – And Parents Will Love It Most of All",
+                 "description": "Why has this been kept top-secret for so long?!",
+                 "url": "https://www.popsugar.com/moms/Trader-Joe-Hides-Stuffed-Animals-Kids-44725493",
+                 "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/Wq2ZYedSlJ1YroLmF6bFoJZIv60/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2018/04/05/748/n/24155406/f23baaa75ac655a9ee1aa2.86733855_.jpg",
+                 "publishedAt": "2018-04-05T17:07:00Z"
+                 },
+                 {
+                 "source": {
+                 "id": "reuters",
+                 "name": "Reuters"
+                 },
+                 "author": "Lucia Mutikani",
+                 "title": "US trade deficit rises to near nine-and-a-half-year high in February",
+                 "description": "The U.S. trade deficit increased to a near 9-1/2-year high in February, with both imports and exports rising to record highs in a sign of strong domestic and global demand.",
+                 "url": "https://www.reuters.com/article/us-usa-economy/u-s-trade-deficit-rises-to-near-nine-and-a-half-year-high-in-february-idUSKCN1HC1P2",
+                 "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180405&t=2&i=1248335636&w=1200&r=LYNXNPEE340YJ",
+                 "publishedAt": "2018-04-05T16:08:41Z"
+                 },
+                 {
+                 "source": {
+                 "id": null,
+                 "name": "Nrn.com"
+                 },
+                 "author": null,
+                 "title": "Dunkin' Donuts tests 'Donut Fries'",
+                 "description": "The brands’ $2 snack menu also includes Munchkins’ Dippers and chicken tenders",
+                 "url": "http://www.nrn.com/quick-service/dunkin-donuts-tests-donut-fries",
+                 "urlToImage": "http://www.nrn.com/sites/nrn.com/files/dunkin-tests-donut-fries_1.gif",
+                 "publishedAt": "2018-04-05T15:58:37Z"
+                 }
+                 ]
+}

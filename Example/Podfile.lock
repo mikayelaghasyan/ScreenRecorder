@@ -1,0 +1,19 @@
+PODS:
+  - ScreenRecorder (0.1.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - ScreenRecorder (from `../`)
+  - SwiftyJSON (~> 4.0)
+
+EXTERNAL SOURCES:
+  ScreenRecorder:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ScreenRecorder: 6531b549302585d19a4537ccf134693b18a87551
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: b32b1c44fedcd3acce9d19c0ea5cdc66353ddbca
+
+COCOAPODS: 1.4.0

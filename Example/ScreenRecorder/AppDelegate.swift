@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ScreenRecorder
 //
-//  Created by Mikayel Aghasyan on 04/07/2018.
+//  Created by Mikayel Aghasyan on 04/06/2018.
 //  Copyright (c) 2018 Mikayel Aghasyan. All rights reserved.
 //
 
