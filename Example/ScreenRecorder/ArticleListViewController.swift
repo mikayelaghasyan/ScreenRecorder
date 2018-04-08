@@ -102,7 +102,8 @@ class ArticleListViewController: UITableViewController {
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        switch segue.identifier {
+        guard let identifier = segue.identifier else { return }
+        switch identifier {
         case "ArticleDetails":
             let detailsViewController = segue.destination as! ArticleDetailsViewController
             let cell = sender as! ArticleCell
