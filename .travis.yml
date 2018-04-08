@@ -2,8 +2,11 @@
 # * http://www.objc.io/issue-6/travis-ci.html
 # * https://github.com/supermarin/xcpretty#usage
 
-osx_image: xcode7.3
+osx_image: xcode9.2
 language: objective-c
+dependencies:
+  pre:
+    - xcrun instruments -w 'iPhone 7 (10.3)' || sleep 15
 # cache: cocoapods
 # podfile: Example/Podfile
 # before_install:
