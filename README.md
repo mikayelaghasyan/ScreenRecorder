@@ -1,6 +1,6 @@
 # ScreenRecorder
 
-[![CI Status](http://img.shields.io/travis/Mikayel Aghasyan/ScreenRecorder.svg?style=flat)](https://travis-ci.org/Mikayel Aghasyan/ScreenRecorder)
+[![CI Status](http://img.shields.io/travis/mikayelaghasyan/ScreenRecorder.svg?style=flat)](https://travis-ci.org/mikayelaghasyan/ScreenRecorder)
 [![Version](https://img.shields.io/cocoapods/v/ScreenRecorder.svg?style=flat)](http://cocoapods.org/pods/ScreenRecorder)
 [![License](https://img.shields.io/cocoapods/l/ScreenRecorder.svg?style=flat)](http://cocoapods.org/pods/ScreenRecorder)
 [![Platform](https://img.shields.io/cocoapods/p/ScreenRecorder.svg?style=flat)](http://cocoapods.org/pods/ScreenRecorder)
@@ -22,7 +22,7 @@ pod 'ScreenRecorder'
 
 ## Author
 
-Mikayel Aghasyan, mikayel.aghasyan@iunetworks.am
+Mikayel Aghasyan, mikayel.aghasyan@gmail.com
 
 ## License
 
