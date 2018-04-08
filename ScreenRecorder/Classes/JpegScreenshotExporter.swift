@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import WebP
 
 public class JpegScreenshotExporter: ScreenshotExporter {
     public init() {

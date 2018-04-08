@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ScreenRecorder: 0c5bd010a8a9d41885e83e1d7c13ea478f2e185d
+  ScreenRecorder: b9c6400d0daccb7b25194fb313b0c994a6e6ef51
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
 PODFILE CHECKSUM: b32b1c44fedcd3acce9d19c0ea5cdc66353ddbca

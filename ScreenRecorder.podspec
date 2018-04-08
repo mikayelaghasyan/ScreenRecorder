@@ -32,7 +32,11 @@ TODO: Add long description of the pod here.
   s.swift_version = '4.0'
 
   s.source_files = 'ScreenRecorder/Classes/**/*'
-  
+
+  s.vendored_frameworks = 'ScreenRecorder/Frameworks/WebP.framework'
+
+  s.preserve_paths = 'ScreenRecorder/Frameworks/Frameworks.modulemap'
+
   # s.resource_bundles = {
   #   'ScreenRecorder' => ['ScreenRecorder/Assets/*.png']
   # }
