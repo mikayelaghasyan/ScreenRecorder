@@ -4,6 +4,8 @@
 
 osx_image: xcode9.2
 language: objective-c
+before_install:
+  - gem install cocoapods
 dependencies:
   pre:
     - xcrun instruments -w 'iPhone 7 (11.2)' || sleep 15
